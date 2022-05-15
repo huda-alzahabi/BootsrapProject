@@ -1,0 +1,32 @@
+ body {
+     font-family: 'robotoregular';
+ }
+ 
+ ul>li>a,
+ ul>button>a {
+     font-family: 'robotoregular';
+     font-weight: bold;
+     color: white;
+ }
+ 
+ .main {
+     background-color: gray;
+     background-image: url("../assets/bg.jpg");
+     background-size: cover;
+     background-blend-mode: multiply;
+     color: white;
+ }
+ 
+ .row {
+     margin-left: 0;
+ }
+ 
+ .logo {
+     height: 80px;
+ }
+ 
+ .mybutton {
+     border-radius: 0.4rem;
+     background-color: #18ea19;
+     border-color: #18ea19;
+ }
