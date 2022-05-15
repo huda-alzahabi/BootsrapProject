@@ -25,8 +25,15 @@
      height: 80px;
  }
  
- .mybutton {
+ .mybutton,
+ .learnmore {
      border-radius: 0.4rem;
      background-color: #18ea19;
      border-color: #18ea19;
+     color: white;
+ }
+ 
+ .learnmore {
+     padding: 1% 2%;
+     margin-bottom: 10%;
  }
