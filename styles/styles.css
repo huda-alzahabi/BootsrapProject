@@ -17,6 +17,10 @@
      color: white;
  }
  
+ .nv {
+     padding-top: 3%;
+ }
+ 
  .row {
      margin-left: 0;
  }
@@ -41,8 +45,21 @@
  .mid {
      text-align: center;
      margin-top: 5%;
+     margin-bottom: 8%;
  }
  
  .green {
      color: #18ea19;
+ }
+ 
+ .mt {
+     margin-top: 20%;
+ }
+ 
+ .ml {
+     margin-left: 5%;
+ }
+ 
+ .skills {
+     font-size: x-large;
  }
