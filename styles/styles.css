@@ -109,3 +109,13 @@
  .pd2 {
      padding: 5%;
  }
+ 
+ .pd3 {
+     padding-bottom: 5%;
+ }
+ 
+ hr {
+     margin-left: 5%;
+     margin-right: 5%;
+     border: 1px thin black;
+ }
