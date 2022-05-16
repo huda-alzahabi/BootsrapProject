@@ -90,3 +90,15 @@
  .cent {
      text-align: center;
  }
+ 
+ .greybg {
+     background-color: #e6e6e6;
+ }
+ 
+ .pd {
+     padding: 2%;
+ }
+ 
+ .pd2 {
+     padding: 5%;
+ }
