@@ -119,3 +119,7 @@
      margin-right: 5%;
      border: 1px thin black;
  }
+ 
+ .btn-dark {
+     background-color: black;
+ }
