@@ -120,6 +120,7 @@
      border: 1px thin black;
  }
  
- .btn-dark {
+ .btn-dark,
+ .blackbg {
      background-color: black;
  }
