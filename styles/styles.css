@@ -63,3 +63,21 @@
  .skills {
      font-size: x-large;
  }
+ 
+ .gb {
+     background-color: #18ea19;
+ }
+ 
+ .prog {
+     color: white;
+     text-align: center;
+     padding-top: 5%;
+ }
+ 
+ .fsw {
+     margin-left: 45%;
+ }
+ 
+ .down {
+     padding-bottom: 5%;
+ }
